@@ -1,0 +1,27 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:grass_block": 59,
+      "minecraft:elytra": 1,
+      "minecraft:dirt_path": 44,
+      "minecraft:firework_rocket": 6
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 39558,
+      "minecraft:walk_one_cm": 25402,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 12330,
+      "minecraft:play_time": 39558,
+      "minecraft:jump": 87,
+      "minecraft:time_since_death": 39558,
+      "minecraft:aviate_one_cm": 72041,
+      "minecraft:sprint_one_cm": 17927,
+      "minecraft:open_chest": 1,
+      "minecraft:total_world_time": 44451,
+      "minecraft:fly_one_cm": 874419,
+      "minecraft:walk_on_water_one_cm": 3397,
+      "minecraft:sneak_time": 496
+    }
+  },
+  "DataVersion": 4671
+}
